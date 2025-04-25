@@ -1,8 +1,1 @@
 blank_issues_enabled: false
-contact_links:
-  - name: Helidon Documentation
-    url: https://helidon.io/docs/latest/
-    about: 
-  - name: Helidon Examples
-    url: https://github.com/helidon-io/helidon-examples
-    about: 
