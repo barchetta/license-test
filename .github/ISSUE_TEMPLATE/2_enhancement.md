@@ -7,11 +7,9 @@ assignees: ''
 
 ---
 
-## Environment Details
+## Enhancement Description
+
 * Helidon Version:
 * Helidon SE or Helidon MP
 
-----------
-
-## Enhancement Description
 

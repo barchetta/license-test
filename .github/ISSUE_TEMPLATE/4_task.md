@@ -7,12 +7,7 @@ assignees: ''
 
 ---
 
-## Environment Details
+## Task Description
+
 * Helidon Version:
-* Helidon SE or Helidon MP
-
-----------
-
-## Problem Description
-
 

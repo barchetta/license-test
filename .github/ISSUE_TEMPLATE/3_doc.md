@@ -7,12 +7,9 @@ assignees: ''
 
 ---
 
-## Environment Details
-* Helidon Version:
-* Helidon SE or Helidon MP
-
-----------
-
 ## Problem Description
+
+* Helidon Version:
+* Documentation URL:
 
 
