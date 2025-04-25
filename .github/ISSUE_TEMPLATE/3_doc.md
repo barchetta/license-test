@@ -7,9 +7,9 @@ assignees: ''
 
 ---
 
-## Problem Description
+Helidon Version:
+Documentation URL:
 
-* Helidon Version:
-* Documentation URL:
+## Problem Description
 
 

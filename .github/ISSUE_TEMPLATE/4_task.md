@@ -7,7 +7,8 @@ assignees: ''
 
 ---
 
+Helidon Version:
+
 ## Task Description
 
-* Helidon Version:
 

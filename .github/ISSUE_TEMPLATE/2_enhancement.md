@@ -7,9 +7,8 @@ assignees: ''
 
 ---
 
-## Enhancement Description
+Helidon Version:
 
-* Helidon Version:
-* Helidon SE or Helidon MP
+## Enhancement Description
 
 
